@@ -121,27 +121,25 @@ header.smaller nav a {
 
 /* --- MENU --- */
 
-.blank-menu-header {
-    text-align: left;
+.main-menu-header {
     margin-top: 40px;
 }
-.blank-menu-header ul {
+.main-menu-header ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
     list-style-image: none;
 }
-.blank-menu-header li {
+.main-menu-header li {
     display: inline;
 }
-.blank-menu-header ul li a {
+.main-menu-header ul li a {
     text-decoration:none;
     margin: 4px;
     padding: 5px 0px 5px 40px;
     font-weight: 300;
-    font-size: 1.1rem;
 }
-.blank-menu-header ul li a:hover {
+.main-menu-header ul li a:hover {
     color: #cccccc;
 }
 /* -- End Menu -- */
