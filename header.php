@@ -9,10 +9,13 @@
 <body>
     <div class="container">
         <header class="row">
-            <div class="twelve columns" id="header-container">
+            <div class="eight columns" id="header-container">
                 <div id="logo">
                     <a href="index.html"><img src="http://www.alleymanalio.com/work/wp-content/uploads/2017/06/logo_original.png" alt="Alley Manalio - Logo image" title="Alley Manalio - Logo Image" width="100" /></a>
                 </div>
+            </div>
+            <div class="four columns">
+                <h3>Search Bar</h3>
             </div>
         </header>
         <!-- MENU CODE BEGINS -->
