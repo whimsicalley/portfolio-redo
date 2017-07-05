@@ -18,5 +18,8 @@
             <!-- End Loop -->
         </div>
     </section>
+    <div class="fullwidth">
+        <p>blah blah blah</p>
+    </div>
 
 <?php get_footer(); ?>
