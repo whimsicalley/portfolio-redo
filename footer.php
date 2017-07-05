@@ -8,9 +8,9 @@
         </footer>
         <!-- End Footer -->
     </div> <!-- End Container Div -->
-    <script src="js/jquery-3.1.0.min.js"></script>
-    <script src="js/classie.js"></script>
-    <script src="js/main.js"></script>
     <?php wp_footer(); ?>
+    <script src="http://www.alleymanalio.com/work/wp-content/themes/portfolio-redo/js/jquery-3.1.0.min.js"></script>
+    <script src="http://www.alleymanalio.com/work/wp-content/themes/portfolio-redo/js/classie.js"></script>
+    <script src="http://www.alleymanalio.com/work/wp-content/themes/portfolio-redo/js/main.js"></script>
 </body>
 </html>
