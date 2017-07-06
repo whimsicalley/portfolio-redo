@@ -10,7 +10,7 @@
     <header class="row">
         <div class="two columns" id="header-container">
             <div id="logo">
-                <a href="index.html"><img src="http://www.alleymanalio.com/work/wp-content/uploads/2017/06/logo_original.png" alt="Alley Manalio - Logo image" title="Alley Manalio - Logo Image" width="100" /></a>
+                <a href="http://www.alleymanalio.com/work/"><img src="http://www.alleymanalio.com/work/wp-content/uploads/2017/06/logo_original.png" alt="Alley Manalio - Logo image" title="Alley Manalio - Logo Image" width="100" /></a>
             </div>
         </div>
         <div class="six columns">
