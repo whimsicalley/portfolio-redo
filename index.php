@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
   <!-- Begin Section Container -->
-    <section class="row">
+    <section class="row fullwidth">
         <div class="eight columns">
         <!-- Begin Loop -->
         <?php

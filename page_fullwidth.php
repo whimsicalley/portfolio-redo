@@ -4,7 +4,7 @@
 
 <?php get_header(); ?>
 
-    <section class="row">
+    <section class="row fullwidth">
         <div class="twelve columns">
             <!-- Begin Loop -->
             <?php if ( have_posts() ) {
@@ -18,8 +18,5 @@
             <!-- End Loop -->
         </div>
     </section>
-    <div class="fullwidth">
-        <p>blah blah blah</p>
-    </div>
 
 <?php get_footer(); ?>

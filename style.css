@@ -150,8 +150,13 @@ header.smaller nav a {
     color: #cccccc;
 }
 
-/****** FULL WIDTH PAGE ******/
+/****** Pushing down the container div ******/
 
 .fullwidth {
-    background-color: red;
+    background-color: yellow;
+    padding-top: 200px;
+}
+
+.fullwidth p {
+    font-style: italic;
 }
