@@ -153,10 +153,5 @@ header.smaller nav a {
 /****** Pushing down the container div ******/
 
 .fullwidth {
-    background-color: yellow;
     padding-top: 200px;
-}
-
-.fullwidth p {
-    font-style: italic;
 }

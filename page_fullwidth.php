@@ -7,6 +7,7 @@
     <section class="row fullwidth">
         <div class="twelve columns">
             <!-- Begin Loop -->
+            <?php if ( function_exists( 'bcn_display' ) ) { bcn_display(); }?>
             <?php if ( have_posts() ) {
                 while ( have_posts() ) {
                     the_post(); ?>
