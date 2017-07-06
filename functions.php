@@ -54,5 +54,7 @@ add_theme_support('menus');
 /*--- Enable Post Thumbnails ---*/
 add_theme_support( 'post-thumbnails' );
 
+/*--- Hides WordPress top toolbar ---*/
+add_filter('show_admin_bar', '__return_false');
 
 ?>
