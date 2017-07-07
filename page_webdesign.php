@@ -1,5 +1,5 @@
 <?php
-/* Template Name: Full Width */
+/* Template Name: Web Design */
 ?>
 
 <?php get_header(); ?>
