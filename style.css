@@ -28,6 +28,9 @@ h1 {
 
 h2 {
     font-size: 2.5rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: teal;
 }
 
 h3 {
@@ -150,8 +153,16 @@ header.smaller nav a {
     color: #cccccc;
 }
 
-/****** Pushing down the container div ******/
-
-.fullwidth {
+/****** Pushing down container on all pages ******/
+.container {
     padding-top: 200px;
+}
+
+.breadcrumbs {
+    padding: 0 0 20px 0;
+    color: green;
+}
+
+.breadcrumbs-active {
+    color: orange;
 }
