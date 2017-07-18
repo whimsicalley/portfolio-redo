@@ -156,6 +156,7 @@ header.smaller nav a {
 /****** Pushing down container on all pages ******/
 .container {
     padding-top: 200px;
+    background: blue;
 }
 
 .breadcrumbs {
@@ -165,4 +166,9 @@ header.smaller nav a {
 
 .breadcrumbs-active {
     color: orange;
+}
+
+.posts {
+    padding: 10px 0 10px 20px;
+    width: auto;
 }

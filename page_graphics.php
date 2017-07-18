@@ -21,7 +21,7 @@
                     while ( have_posts() ) {
                         the_post(); ?>
                         <!-- Start Individual Post Column -->
-                        <div class="three columns">
+                        <div class="three columns posts">
                             <a href="<?php the_permalink(); ?>">
                             <?php
                                 if ( has_post_thumbnail() ) {
