@@ -6,7 +6,7 @@
 
     <section class="row">
         <!-- Begin Full Page Column -->
-        <div class="twelve columns">
+        <div class="twelve columns content">
             <div class="breadcrumbs">
                 <?php if ( function_exists( 'bcn_display' ) ) { bcn_display(); } ?>
             </div>

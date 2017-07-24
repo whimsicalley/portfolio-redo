@@ -155,9 +155,13 @@ header.smaller nav a {
 
 /****** Pushing down container on all pages ******/
 .container {
-    padding-top: 200px;
+    padding-top: 180px;
     max-width: 1000px;
     background: blue;
+}
+
+.content {
+    padding: 10px 0 10px 20px;
 }
 
 .breadcrumbs {
@@ -169,9 +173,11 @@ header.smaller nav a {
     color: orange;
 }
 
-.posts {
-    padding: 10px 0 10px 20px;
-    width: auto;
+@media all and (min-width: 600px) {
+    .posts {
+        padding: 0 20px 20px 0;
+        width: auto;
+    }
 }
 
 .posts img {
