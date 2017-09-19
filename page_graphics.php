@@ -4,15 +4,17 @@
 
 <?php get_header(); ?>
 
-    <section class="row">
         <!-- Begin Full Page Column -->
+        <div class="full-width-graphics-img">
+            <img src="<?php echo get_bloginfo('template_url') ?>/imgs/sj_magazine.jpg"/>
+        </div>
+    <div class="container">
+    <section class="row">
         <div class="twelve columns content">
             <div class="breadcrumbs">
                 <?php if ( function_exists( 'bcn_display' ) ) { bcn_display(); } ?>
             </div>
             <h2>Graphics Examples</h2>
-            <p>Here you can find examples on some of my graphics work that I've done recently.</p>
-
             <div class="row">
                 <!-- Begin Loop for posts? Hopefully? -->
                 <?php query_posts('cat=5'); ?> <!--telling it which category to select & show-->

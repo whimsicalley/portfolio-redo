@@ -29,4 +29,3 @@
             <h3>Search Bar</h3>
         </div>
     </header>
-    <div class="container">
